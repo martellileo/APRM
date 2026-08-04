@@ -1,0 +1,23 @@
+id_cliente,nome,email,idade,cidade,estado,renda_mensal,data_cadastro,ativo
+1,"  Ana Paula  ","ANA.PAULA@email.com ",22,"sao paulo",sp,"R$ 2.500,50",01/02/2026,Sim
+2,Bruno Lima,bruno.lima@email.com,35,Campinas,SP,"4200.00",2026-02-05,S
+3,Carla Souza,,29,Santos,São Paulo,"3.100,75",07-02-2026,sim
+4,Diego Alves,diego.alves@email.com,trinta,Sorocaba,SP,"R$ 5.000,00",10/02/2026,Sim
+5,Elisa Rocha,ELISA.ROCHA@EMAIL.COM,41,"Ribeirão Preto",sp,,2026/02/12,1
+6,Fábio Mendes,fabio.mendes@email.com,27," campinas ",SP,"-500,00",13/02/2026,Não
+7,Gabriela Nunes,gabriela.nunes@email.com,33,"São Paulo",sp,"6.750,00",14/02/2026,S
+8,Hugo Martins,hugo.martins@email,38,Jundiaí,SP,"4.900,00",15/02/2026,Sim
+2,Bruno Lima,bruno.lima@email.com,35,Campinas,SP,"4200.00",2026-02-05,S
+10,Ana Paula,ana.paula@email.com,22,"São Paulo",SP,"2500.50",2026-02-01,sim
+11,Igor Freitas,igor.freitas@email.com,150,Guarulhos,SP,"3.800,00",18/02/2026,Sim
+12,Juliana Costa,juliana.costa@email.com,31,,SP,"5.250,40",19/02/2026,N
+13,"  Kleber Dias",kleber.dias@email.com,45,Osasco,sp,"7.100,00",20/02/2026,não
+14,Larissa Moraes,larissa.moraes@email.com,26,Barueri,SP,"4.350,00",31/02/2026,Sim
+15,Marcos Silva,marcos.silva@email.com,39,"SAO PAULO",SP,"8.200,00",22/02/2026,1
+16,Natália Reis,natalia.reis@email.com,28,Santos,SP,"3.950,00",23/02/2026,0
+17,Otávio Gomes,otavio.gomes@email.com,,Sorocaba,SP,"5.600,00",24/02/2026,verdadeiro
+18,Patrícia Luz,patricia.luz@email.com,52,"Ribeirao preto",SP,"9.150,90",25/02/2026,falso
+19,Rafael Teixeira," rafael.teixeira@email.com",-4,Guarulhos,SP,"4.750,00",26/02/2026,Sim
+20,Sônia Castro,sonia.castro@email.com,36,Jundiai,SP,não informado,27/02/2026,Não
+21,Tiago Ramos,tiago.ramos@email.com,43,Osasco,RJ,"6.300,00",28/02/2026,Sim
+22,Vanessa Lopes,vanessa.lopes@email.com,34,Barueri,SP,"5.480,25",2026-03-01,Sim
