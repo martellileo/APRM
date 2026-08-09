@@ -1,0 +1,25 @@
+ATIVIDADE DE LIMPEZA E ORGANIZAÇÃO DE DADOS
+
+Arquivo de entrada: vendas_nao_tratadas.csv (300 registros)
+Arquivo de referência: vendas_tratadas.csv (272 registros válidos e únicos)
+Separador: ponto e vírgula (;) | Codificação: UTF-8 com BOM
+
+PROBLEMAS INSERIDOS
+- 8 linhas duplicadas exatas.
+- Espaços extras e uso inconsistente de maiúsculas/minúsculas.
+- Datas em dois formatos: AAAA-MM-DD e DD/MM/AAAA.
+- Preços com ponto ou vírgula como separador decimal.
+- Quantidades ausentes.
+- E-mails inválidos.
+- Variações em forma de pagamento e status.
+
+TRATAMENTOS ESPERADOS
+1. Importar todas as colunas inicialmente como texto. ok
+2. Diagnosticar tipos, nulos e duplicatas. ok
+3. Remover espaços e padronizar capitalização. ok
+4. Converter data, quantidade e preço para os tipos adequados. ok
+5. Validar e-mails, datas e valores positivos. ok
+6. Remover linhas inválidas e duplicatas exatas. ok
+7. Ordenar por data_venda e id_venda, redefinir o índice. ok
+8. Executar testes de qualidade e exportar sem o índice. ok
+

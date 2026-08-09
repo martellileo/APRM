@@ -1,0 +1,273 @@
+﻿id_venda;data_venda;cliente;email;cidade;uf;produto;categoria;quantidade;preco_unitario;forma_pagamento;status_pedido
+V0193;2025-01-02;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mesa escritório;Móveis;4.0;899.9;Cartão de Crédito;Pendente
+V0197;2025-01-03;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mouse sem fio;Acessórios;3.0;129.9;Cartão de Crédito;Concluído
+V0060;2025-01-04;Ana Souza;ana.souza@email.com;São Paulo;SP;Cadeira ergonômica;Móveis;1.0;1490.0;Pix;Concluído
+V0163;2025-01-06;Bruno Lima;bruno.lima@email.com;Campinas;SP;Webcam;Eletrônicos;4.0;319.0;Cartão de Débito;Pendente
+V0073;2025-01-07;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mesa escritório;Móveis;4.0;899.9;Cartão de Crédito;Pendente
+V0266;2025-01-08;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Teclado mecânico;Acessórios;2.0;389.5;Boleto;Concluído
+V0129;2025-01-09;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mesa escritório;Móveis;5.0;899.9;Cartão de Crédito;Cancelado
+V0039;2025-01-10;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Monitor 24;Eletrônicos;5.0;1099.0;Cartão de Débito;Cancelado
+V0232;2025-01-11;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Notebook;Eletrônicos;3.0;3499.9;Pix;Concluído
+V0096;2025-01-13;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Notebook;Eletrônicos;2.0;3499.9;Pix;Concluído
+V0049;2025-01-14;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mesa escritório;Móveis;5.0;899.9;Cartão de Crédito;Cancelado
+V0002;2025-01-15;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Teclado mecânico;Acessórios;3.0;389.5;Boleto;Concluído
+V0285;2025-01-16;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mouse sem fio;Acessórios;1.0;129.9;Cartão de Crédito;Concluído
+V0238;2025-01-17;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Headset;Acessórios;4.0;279.9;Boleto;Pendente
+V0191;2025-01-18;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Monitor 24;Eletrônicos;2.0;1099.0;Cartão de Débito;Concluído
+V0144;2025-01-19;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Notebook;Eletrônicos;5.0;3499.9;Pix;Cancelado
+V0097;2025-01-20;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mesa escritório;Móveis;3.0;899.9;Cartão de Crédito;Concluído
+V0050;2025-01-21;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Teclado mecânico;Acessórios;1.0;389.5;Boleto;Concluído
+V0003;2025-01-22;Bruno Lima;bruno.lima@email.com;Campinas;SP;Webcam;Eletrônicos;4.0;319.0;Cartão de Débito;Pendente
+V0286;2025-01-23;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Headset;Acessórios;2.0;279.9;Boleto;Concluído
+V0239;2025-01-24;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Monitor 24;Eletrônicos;5.0;1099.0;Cartão de Débito;Cancelado
+V0192;2025-01-25;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Notebook;Eletrônicos;3.0;3499.9;Pix;Concluído
+V0145;2025-01-26;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mesa escritório;Móveis;1.0;899.9;Cartão de Crédito;Concluído
+V0098;2025-01-27;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Teclado mecânico;Acessórios;4.0;389.5;Boleto;Pendente
+V0051;2025-01-28;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Webcam;Eletrônicos;2.0;319.0;Cartão de Débito;Concluído
+V0004;2025-01-29;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Cadeira ergonômica;Móveis;5.0;1490.0;Pix;Cancelado
+V0287;2025-01-30;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Monitor 24;Eletrônicos;3.0;1099.0;Cartão de Débito;Concluído
+V0240;2025-01-31;Ana Souza;ana.souza@email.com;São Paulo;SP;Notebook;Eletrônicos;1.0;3499.9;Pix;Concluído
+V0283;2025-02-01;Bruno Lima;bruno.lima@email.com;Campinas;SP;Webcam;Eletrônicos;4.0;319.0;Cartão de Débito;Concluído
+V0150;2025-02-03;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Headset;Acessórios;1.0;279.9;Boleto;Concluído
+V0013;2025-02-04;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mouse sem fio;Acessórios;4.0;129.9;Cartão de Crédito;Pendente
+V0253;2025-02-05;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mouse sem fio;Acessórios;4.0;129.9;Cartão de Crédito;Pendente
+V0116;2025-02-06;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Cadeira ergonômica;Móveis;2.0;1490.0;Pix;Concluído
+V0026;2025-02-07;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Teclado mecânico;Acessórios;2.0;389.5;Boleto;Concluído
+V0219;2025-02-08;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Webcam;Eletrônicos;5.0;319.0;Cartão de Débito;Cancelado
+V0082;2025-02-09;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Teclado mecânico;Acessórios;3.0;389.5;Boleto;Concluído
+V0185;2025-02-11;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mesa escritório;Móveis;1.0;899.9;Cartão de Crédito;Concluído
+V0289;2025-02-13;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mesa escritório;Móveis;5.0;899.9;Cartão de Crédito;Cancelado
+V0242;2025-02-14;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Teclado mecânico;Acessórios;3.0;389.5;Boleto;Concluído
+V0195;2025-02-15;Felipe Santos;felipe.santos@email.com;Recife;PE;Webcam;Eletrônicos;1.0;319.0;Cartão de Débito;Concluído
+V0148;2025-02-16;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Cadeira ergonômica;Móveis;4.0;1490.0;Pix;Pendente
+V0101;2025-02-17;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mouse sem fio;Acessórios;2.0;129.9;Cartão de Crédito;Concluído
+V0054;2025-02-18;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Headset;Acessórios;5.0;279.9;Boleto;Cancelado
+V0007;2025-02-19;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Monitor 24;Eletrônicos;3.0;1099.0;Cartão de Débito;Concluído
+V0290;2025-02-20;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Teclado mecânico;Acessórios;1.0;389.5;Boleto;Concluído
+V0243;2025-02-21;Bruno Lima;bruno.lima@email.com;Campinas;SP;Webcam;Eletrônicos;4.0;319.0;Cartão de Débito;Pendente
+V0196;2025-02-22;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Cadeira ergonômica;Móveis;2.0;1490.0;Pix;Concluído
+V0149;2025-02-23;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mouse sem fio;Acessórios;5.0;129.9;Cartão de Crédito;Cancelado
+V0102;2025-02-24;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Headset;Acessórios;3.0;279.9;Boleto;Concluído
+V0055;2025-02-25;Felipe Santos;felipe.santos@email.com;Recife;PE;Monitor 24;Eletrônicos;1.0;1099.0;Cartão de Débito;Concluído
+V0008;2025-02-26;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Notebook;Eletrônicos;4.0;3499.9;Pix;Pendente
+V0244;2025-02-28;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Cadeira ergonômica;Móveis;5.0;1490.0;Pix;Cancelado
+V0236;2025-03-01;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Cadeira ergonômica;Móveis;2.0;1490.0;Pix;Concluído
+V0099;2025-03-02;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Webcam;Eletrônicos;5.0;319.0;Cartão de Débito;Cancelado
+V0103;2025-03-03;Bruno Lima;bruno.lima@email.com;Campinas;SP;Monitor 24;Eletrônicos;4.0;1099.0;Cartão de Débito;Pendente
+V0206;2025-03-05;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Headset;Acessórios;2.0;279.9;Boleto;Concluído
+V0069;2025-03-06;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mouse sem fio;Acessórios;5.0;129.9;Cartão de Crédito;Cancelado
+V0172;2025-03-08;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Cadeira ergonômica;Móveis;3.0;1490.0;Pix;Concluído
+V0035;2025-03-09;Felipe Santos;felipe.santos@email.com;Recife;PE;Webcam;Eletrônicos;1.0;319.0;Cartão de Débito;Concluído
+V0275;2025-03-10;Felipe Santos;felipe.santos@email.com;Recife;PE;Webcam;Eletrônicos;1.0;319.0;Cartão de Débito;Concluído
+V0138;2025-03-11;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Teclado mecânico;Acessórios;4.0;389.5;Boleto;Pendente
+V0246;2025-03-14;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Headset;Acessórios;2.0;279.9;Boleto;Concluído
+V0199;2025-03-15;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Monitor 24;Eletrônicos;5.0;1099.0;Cartão de Débito;Cancelado
+V0152;2025-03-16;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Notebook;Eletrônicos;3.0;3499.9;Pix;Concluído
+V0105;2025-03-17;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mesa escritório;Móveis;1.0;899.9;Cartão de Crédito;Concluído
+V0058;2025-03-18;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Teclado mecânico;Acessórios;4.0;389.5;Boleto;Pendente
+V0011;2025-03-19;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Webcam;Eletrônicos;2.0;319.0;Cartão de Débito;Concluído
+V0247;2025-03-21;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Monitor 24;Eletrônicos;3.0;1099.0;Cartão de Débito;Concluído
+V0200;2025-03-22;Ana Souza;ana.souza@email.com;São Paulo;SP;Notebook;Eletrônicos;1.0;3499.9;Pix;Concluído
+V0153;2025-03-23;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mesa escritório;Móveis;4.0;899.9;Cartão de Crédito;Pendente
+V0106;2025-03-24;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Teclado mecânico;Acessórios;2.0;389.5;Boleto;Concluído
+V0012;2025-03-26;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Cadeira ergonômica;Móveis;3.0;1490.0;Pix;Concluído
+V0248;2025-03-28;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Notebook;Eletrônicos;4.0;3499.9;Pix;Pendente
+V0201;2025-03-29;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mesa escritório;Móveis;2.0;899.9;Cartão de Crédito;Concluído
+V0154;2025-03-30;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Teclado mecânico;Acessórios;5.0;389.5;Boleto;Cancelado
+V0107;2025-03-31;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Webcam;Eletrônicos;3.0;319.0;Cartão de Débito;Concluído
+V0189;2025-04-01;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mouse sem fio;Acessórios;5.0;129.9;Cartão de Crédito;Concluído
+V0052;2025-04-02;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Cadeira ergonômica;Móveis;3.0;1490.0;Pix;Concluído
+V0056;2025-04-03;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Notebook;Eletrônicos;2.0;3499.9;Pix;Concluído
+V0159;2025-04-05;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Monitor 24;Eletrônicos;5.0;1099.0;Cartão de Débito;Cancelado
+V0022;2025-04-06;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Headset;Acessórios;3.0;279.9;Boleto;Concluído
+V0228;2025-04-10;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Cadeira ergonômica;Móveis;4.0;1490.0;Pix;Pendente
+V0091;2025-04-11;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Webcam;Eletrônicos;2.0;319.0;Cartão de Débito;Concluído
+V0109;2025-04-14;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mouse sem fio;Acessórios;5.0;129.9;Cartão de Crédito;Cancelado
+V0062;2025-04-15;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Headset;Acessórios;3.0;279.9;Boleto;Concluído
+V0015;2025-04-16;Felipe Santos;felipe.santos@email.com;Recife;PE;Monitor 24;Eletrônicos;1.0;1099.0;Cartão de Débito;Concluído
+V0251;2025-04-18;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Webcam;Eletrônicos;2.0;319.0;Cartão de Débito;Concluído
+V0157;2025-04-20;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mouse sem fio;Acessórios;3.0;129.9;Cartão de Crédito;Concluído
+V0110;2025-04-21;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Headset;Acessórios;1.0;279.9;Boleto;Concluído
+V0016;2025-04-23;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Notebook;Eletrônicos;2.0;3499.9;Pix;Concluído
+V0252;2025-04-25;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Cadeira ergonômica;Móveis;3.0;1490.0;Pix;Concluído
+V0205;2025-04-26;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mouse sem fio;Acessórios;1.0;129.9;Cartão de Crédito;Concluído
+V0158;2025-04-27;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Headset;Acessórios;4.0;279.9;Boleto;Pendente
+V0111;2025-04-28;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Monitor 24;Eletrônicos;2.0;1099.0;Cartão de Débito;Concluído
+V0064;2025-04-29;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Notebook;Eletrônicos;5.0;3499.9;Pix;Cancelado
+V0017;2025-04-30;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mesa escritório;Móveis;3.0;899.9;Cartão de Crédito;Concluído
+V0142;2025-05-01;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Headset;Acessórios;3.0;279.9;Boleto;Concluído
+V0005;2025-05-02;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mouse sem fio;Acessórios;1.0;129.9;Cartão de Crédito;Concluído
+V0009;2025-05-03;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mesa escritório;Móveis;5.0;899.9;Cartão de Crédito;Cancelado
+V0202;2025-05-04;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Teclado mecânico;Acessórios;3.0;389.5;Boleto;Concluído
+V0112;2025-05-05;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Notebook;Eletrônicos;3.0;3499.9;Pix;Concluído
+V0215;2025-05-07;Felipe Santos;felipe.santos@email.com;Recife;PE;Monitor 24;Eletrônicos;1.0;1099.0;Cartão de Débito;Concluído
+V0078;2025-05-08;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Headset;Acessórios;4.0;279.9;Boleto;Pendente
+V0271;2025-05-09;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Monitor 24;Eletrônicos;2.0;1099.0;Cartão de Débito;Concluído
+V0181;2025-05-10;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mouse sem fio;Acessórios;2.0;129.9;Cartão de Crédito;Concluído
+V0044;2025-05-11;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Cadeira ergonômica;Móveis;5.0;1490.0;Cartão de Crédito;Cancelado
+V0066;2025-05-13;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Teclado mecânico;Acessórios;2.0;389.5;Boleto;Concluído
+V0019;2025-05-14;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Webcam;Eletrônicos;5.0;319.0;Cartão de Débito;Cancelado
+V0255;2025-05-16;Felipe Santos;felipe.santos@email.com;Recife;PE;Monitor 24;Eletrônicos;1.0;1099.0;Cartão de Débito;Concluído
+V0208;2025-05-17;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Notebook;Eletrônicos;4.0;3499.9;Pix;Pendente
+V0161;2025-05-18;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mesa escritório;Móveis;2.0;899.9;Cartão de Crédito;Concluído
+V0114;2025-05-19;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Teclado mecânico;Acessórios;5.0;389.5;Boleto;Cancelado
+V0067;2025-05-20;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Webcam;Eletrônicos;3.0;319.0;Cartão de Débito;Concluído
+V0020;2025-05-21;Ana Souza;ana.souza@email.com;São Paulo;SP;Cadeira ergonômica;Móveis;1.0;1490.0;Pix;Concluído
+V0256;2025-05-23;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Notebook;Eletrônicos;2.0;3499.9;Pix;Concluído
+V0209;2025-05-24;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mesa escritório;Móveis;5.0;899.9;Cartão de Crédito;Cancelado
+V0162;2025-05-25;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Teclado mecânico;Acessórios;3.0;389.5;Boleto;Concluído
+V0115;2025-05-26;Felipe Santos;felipe.santos@email.com;Recife;PE;Webcam;Eletrônicos;1.0;319.0;Cartão de Débito;Concluído
+V0068;2025-05-27;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Cadeira ergonômica;Móveis;4.0;1490.0;Pix;Pendente
+V0021;2025-05-28;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mouse sem fio;Acessórios;2.0;129.9;Cartão de Crédito;Concluído
+V0257;2025-05-30;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mesa escritório;Móveis;3.0;899.9;Cartão de Crédito;Concluído
+V0210;2025-05-31;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Teclado mecânico;Acessórios;1.0;389.5;Boleto;Concluído
+V0095;2025-06-01;Felipe Santos;felipe.santos@email.com;Recife;PE;Monitor 24;Eletrônicos;1.0;1099.0;Cartão de Débito;Concluído
+V0288;2025-06-02;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Notebook;Eletrônicos;4.0;3499.9;Pix;Pendente
+V0292;2025-06-03;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Cadeira ergonômica;Móveis;3.0;1490.0;Pix;Concluído
+V0155;2025-06-04;Felipe Santos;felipe.santos@email.com;Recife;PE;Webcam;Eletrônicos;1.0;319.0;Cartão de Débito;Concluído
+V0065;2025-06-05;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mesa escritório;Móveis;1.0;899.9;Cartão de Crédito;Concluído
+V0258;2025-06-06;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Teclado mecânico;Acessórios;4.0;389.5;Boleto;Pendente
+V0168;2025-06-07;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Notebook;Eletrônicos;4.0;3499.9;Pix;Pendente
+V0031;2025-06-08;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Monitor 24;Eletrônicos;2.0;1099.0;Cartão de Débito;Concluído
+V0224;2025-06-09;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Notebook;Eletrônicos;5.0;3499.9;Pix;Cancelado
+V0134;2025-06-10;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Headset;Acessórios;5.0;279.9;Boleto;Cancelado
+V0259;2025-06-13;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Webcam;Eletrônicos;5.0;319.0;Cartão de Crédito;Cancelado
+V0212;2025-06-14;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Cadeira ergonômica;Móveis;3.0;1490.0;Pix;Concluído
+V0165;2025-06-15;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mouse sem fio;Acessórios;1.0;129.9;Cartão de Crédito;Concluído
+V0118;2025-06-16;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Headset;Acessórios;4.0;279.9;Boleto;Pendente
+V0071;2025-06-17;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Monitor 24;Eletrônicos;2.0;1099.0;Cartão de Débito;Concluído
+V0024;2025-06-18;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Notebook;Eletrônicos;5.0;3499.9;Pix;Cancelado
+V0260;2025-06-20;Ana Souza;ana.souza@email.com;São Paulo;SP;Cadeira ergonômica;Móveis;1.0;1490.0;Pix;Concluído
+V0213;2025-06-21;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mouse sem fio;Acessórios;4.0;129.9;Cartão de Crédito;Pendente
+V0166;2025-06-22;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Headset;Acessórios;2.0;279.9;Boleto;Concluído
+V0119;2025-06-23;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Monitor 24;Eletrônicos;5.0;1099.0;Cartão de Débito;Cancelado
+V0072;2025-06-24;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Notebook;Eletrônicos;3.0;3499.9;Pix;Concluído
+V0025;2025-06-25;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mesa escritório;Móveis;1.0;899.9;Cartão de Crédito;Concluído
+V0261;2025-06-27;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mouse sem fio;Acessórios;2.0;129.9;Cartão de Crédito;Concluído
+V0214;2025-06-28;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Headset;Acessórios;5.0;279.9;Boleto;Cancelado
+V0167;2025-06-29;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Monitor 24;Eletrônicos;3.0;1099.0;Cartão de Débito;Concluído
+V0120;2025-06-30;Ana Souza;ana.souza@email.com;São Paulo;SP;Notebook;Eletrônicos;1.0;3499.9;Pix;Concluído
+V0048;2025-07-01;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Notebook;Eletrônicos;4.0;3499.9;Pix;Concluído
+V0241;2025-07-02;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mesa escritório;Móveis;2.0;899.9;Cartão de Crédito;Concluído
+V0245;2025-07-03;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mouse sem fio;Acessórios;1.0;129.9;Cartão de Crédito;Concluído
+V0108;2025-07-04;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Cadeira ergonômica;Móveis;4.0;1490.0;Pix;Pendente
+V0018;2025-07-05;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Teclado mecânico;Acessórios;4.0;389.5;Boleto;Pendente
+V0211;2025-07-06;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Webcam;Eletrônicos;2.0;319.0;Cartão de Débito;Concluído
+V0121;2025-07-07;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mesa escritório;Móveis;2.0;899.9;Cartão de Crédito;Concluído
+V0177;2025-07-09;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mesa escritório;Móveis;3.0;899.9;Cartão de Crédito;Concluído
+V0087;2025-07-10;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Monitor 24;Eletrônicos;3.0;1099.0;Cartão de Crédito;Concluído
+V0169;2025-07-13;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mesa escritório;Móveis;5.0;899.9;Cartão de Crédito;Cancelado
+V0122;2025-07-14;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Teclado mecânico;Acessórios;3.0;389.5;Boleto;Concluído
+V0075;2025-07-15;Felipe Santos;felipe.santos@email.com;Recife;PE;Webcam;Eletrônicos;1.0;319.0;Cartão de Débito;Concluído
+V0028;2025-07-16;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Cadeira ergonômica;Móveis;4.0;1490.0;Pix;Pendente
+V0264;2025-07-18;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Notebook;Eletrônicos;5.0;3499.9;Pix;Cancelado
+V0217;2025-07-19;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mesa escritório;Móveis;3.0;899.9;Cartão de Crédito;Concluído
+V0170;2025-07-20;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Teclado mecânico;Acessórios;1.0;389.5;Boleto;Concluído
+V0123;2025-07-21;Bruno Lima;bruno.lima@email.com;Campinas;SP;Webcam;Eletrônicos;4.0;319.0;Cartão de Débito;Pendente
+V0076;2025-07-22;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Cadeira ergonômica;Móveis;2.0;1490.0;Pix;Concluído
+V0029;2025-07-23;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mouse sem fio;Acessórios;5.0;129.9;Cartão de Crédito;Cancelado
+V0265;2025-07-25;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mesa escritório;Móveis;1.0;899.9;Cartão de Crédito;Concluído
+V0171;2025-07-27;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Webcam;Eletrônicos;2.0;319.0;Cartão de Débito;Concluído
+V0124;2025-07-28;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Cadeira ergonômica;Móveis;5.0;1490.0;Pix;Cancelado
+V0077;2025-07-29;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mouse sem fio;Acessórios;3.0;129.9;Cartão de Crédito;Concluído
+V0194;2025-08-02;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Teclado mecânico;Acessórios;5.0;389.5;Boleto;Cancelado
+V0198;2025-08-03;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Headset;Acessórios;4.0;279.9;Boleto;Pendente
+V0061;2025-08-04;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mouse sem fio;Acessórios;2.0;129.9;Cartão de Crédito;Concluído
+V0164;2025-08-06;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Cadeira ergonômica;Móveis;5.0;1490.0;Pix;Cancelado
+V0074;2025-08-07;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Teclado mecânico;Acessórios;5.0;389.5;Boleto;Cancelado
+V0267;2025-08-08;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Webcam;Eletrônicos;3.0;319.0;Cartão de Débito;Concluído
+V0130;2025-08-09;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Teclado mecânico;Acessórios;1.0;389.5;Cartão de Crédito;Concluído
+V0040;2025-08-10;Ana Souza;ana.souza@email.com;São Paulo;SP;Notebook;Eletrônicos;1.0;3499.9;Pix;Concluído
+V0268;2025-08-15;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Cadeira ergonômica;Móveis;4.0;1490.0;Pix;Pendente
+V0221;2025-08-16;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mouse sem fio;Acessórios;2.0;129.9;Cartão de Crédito;Concluído
+V0174;2025-08-17;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Headset;Acessórios;5.0;279.9;Boleto;Cancelado
+V0127;2025-08-18;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Monitor 24;Eletrônicos;3.0;1099.0;Cartão de Débito;Concluído
+V0080;2025-08-19;Ana Souza;ana.souza@email.com;São Paulo;SP;Notebook;Eletrônicos;1.0;3499.9;Pix;Concluído
+V0033;2025-08-20;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mesa escritório;Móveis;4.0;899.9;Cartão de Crédito;Pendente
+V0269;2025-08-22;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mouse sem fio;Acessórios;5.0;129.9;Cartão de Crédito;Cancelado
+V0222;2025-08-23;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Headset;Acessórios;3.0;279.9;Boleto;Concluído
+V0128;2025-08-25;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Notebook;Eletrônicos;4.0;3499.9;Pix;Pendente
+V0081;2025-08-26;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mesa escritório;Móveis;2.0;899.9;Cartão de Crédito;Concluído
+V0034;2025-08-27;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Teclado mecânico;Acessórios;5.0;389.5;Boleto;Cancelado
+V0270;2025-08-29;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Headset;Acessórios;1.0;279.9;Boleto;Concluído
+V0223;2025-08-30;Bruno Lima;bruno.lima@email.com;Campinas;SP;Monitor 24;Eletrônicos;4.0;1099.0;Cartão de Débito;Pendente
+V0176;2025-08-31;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Notebook;Eletrônicos;2.0;3499.9;Pix;Concluído
+V0284;2025-09-01;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Cadeira ergonômica;Móveis;5.0;1490.0;Pix;Cancelado
+V0147;2025-09-02;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Webcam;Eletrônicos;3.0;319.0;Cartão de Débito;Concluído
+V0151;2025-09-03;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Monitor 24;Eletrônicos;2.0;1099.0;Cartão de Débito;Concluído
+V0014;2025-09-04;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Headset;Acessórios;5.0;279.9;Boleto;Cancelado
+V0254;2025-09-05;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Headset;Acessórios;5.0;279.9;Boleto;Cancelado
+V0027;2025-09-07;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Webcam;Eletrônicos;3.0;319.0;Cartão de Débito;Concluído
+V0220;2025-09-08;Ana Souza;ana.souza@email.com;São Paulo;SP;Cadeira ergonômica;Móveis;1.0;1490.0;Pix;Concluído
+V0083;2025-09-09;Bruno Lima;bruno.lima@email.com;Campinas;SP;Webcam;Eletrônicos;4.0;319.0;Cartão de Débito;Pendente
+V0225;2025-09-13;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mesa escritório;Móveis;1.0;899.9;Cartão de Crédito;Concluído
+V0178;2025-09-14;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Teclado mecânico;Acessórios;4.0;389.5;Boleto;Pendente
+V0131;2025-09-15;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Webcam;Eletrônicos;2.0;319.0;Cartão de Débito;Concluído
+V0084;2025-09-16;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Cadeira ergonômica;Móveis;5.0;1490.0;Pix;Cancelado
+V0037;2025-09-17;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mouse sem fio;Acessórios;3.0;129.9;Cartão de Crédito;Concluído
+V0273;2025-09-19;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mesa escritório;Móveis;4.0;899.9;Cartão de Crédito;Pendente
+V0226;2025-09-20;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Teclado mecânico;Acessórios;2.0;389.5;Boleto;Concluído
+V0179;2025-09-21;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Webcam;Eletrônicos;5.0;319.0;Cartão de Débito;Cancelado
+V0132;2025-09-22;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Cadeira ergonômica;Móveis;3.0;1490.0;Pix;Concluído
+V0085;2025-09-23;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mouse sem fio;Acessórios;1.0;129.9;Cartão de Crédito;Concluído
+V0038;2025-09-24;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Headset;Acessórios;4.0;279.9;Boleto;Pendente
+V0274;2025-09-26;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Teclado mecânico;Acessórios;5.0;389.5;Boleto;Cancelado
+V0227;2025-09-27;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Webcam;Eletrônicos;3.0;319.0;Cartão de Débito;Concluído
+V0180;2025-09-28;Ana Souza;ana.souza@email.com;São Paulo;SP;Cadeira ergonômica;Móveis;1.0;1490.0;Pix;Concluído
+V0133;2025-09-29;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mouse sem fio;Acessórios;4.0;129.9;Cartão de Crédito;Pendente
+V0086;2025-09-30;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Headset;Acessórios;2.0;279.9;Boleto;Concluído
+V0237;2025-10-01;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mouse sem fio;Acessórios;3.0;129.9;Cartão de Crédito;Concluído
+V0100;2025-10-02;Ana Souza;ana.souza@email.com;São Paulo;SP;Cadeira ergonômica;Móveis;1.0;1490.0;Pix;Concluído
+V0104;2025-10-03;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Notebook;Eletrônicos;5.0;3499.9;Pix;Cancelado
+V0207;2025-10-05;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Monitor 24;Eletrônicos;3.0;1099.0;Cartão de Débito;Concluído
+V0070;2025-10-06;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Headset;Acessórios;1.0;279.9;Boleto;Concluído
+V0173;2025-10-08;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mouse sem fio;Acessórios;4.0;129.9;Cartão de Crédito;Pendente
+V0036;2025-10-09;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Cadeira ergonômica;Móveis;2.0;1490.0;Pix;Concluído
+V0276;2025-10-10;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Cadeira ergonômica;Móveis;2.0;1490.0;Pix;Concluído
+V0139;2025-10-11;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Webcam;Eletrônicos;5.0;319.0;Cartão de Débito;Cancelado
+V0135;2025-10-13;Felipe Santos;felipe.santos@email.com;Recife;PE;Monitor 24;Eletrônicos;1.0;1099.0;Cartão de Débito;Concluído
+V0041;2025-10-15;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mesa escritório;Móveis;2.0;899.9;Cartão de Crédito;Concluído
+V0277;2025-10-17;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mouse sem fio;Acessórios;3.0;129.9;Cartão de Crédito;Concluído
+V0230;2025-10-18;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Headset;Acessórios;1.0;279.9;Boleto;Concluído
+V0183;2025-10-19;Bruno Lima;bruno.lima@email.com;Campinas;SP;Monitor 24;Eletrônicos;4.0;1099.0;Cartão de Débito;Pendente
+V0136;2025-10-20;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Notebook;Eletrônicos;2.0;3499.9;Pix;Concluído
+V0089;2025-10-21;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mesa escritório;Móveis;5.0;899.9;Cartão de Crédito;Cancelado
+V0042;2025-10-22;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Teclado mecânico;Acessórios;3.0;389.5;Boleto;Concluído
+V0278;2025-10-24;Gabriela Costa;gabriela.costa@email.com;Salvador;BA;Headset;Acessórios;4.0;279.9;Boleto;Pendente
+V0231;2025-10-25;Thiago Moreira;thiago.moreira@email.com;Curitiba;PR;Monitor 24;Eletrônicos;2.0;1099.0;Cartão de Débito;Concluído
+V0184;2025-10-26;Isabela Ribeiro;isabela.ribeiro@email.com;Belo Horizonte;MG;Notebook;Eletrônicos;5.0;3499.9;Pix;Cancelado
+V0137;2025-10-27;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mesa escritório;Móveis;3.0;899.9;Cartão de Crédito;Concluído
+V0090;2025-10-28;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Teclado mecânico;Acessórios;1.0;389.5;Boleto;Concluído
+V0043;2025-10-29;Bruno Lima;bruno.lima@email.com;Campinas;SP;Webcam;Eletrônicos;4.0;319.0;Cartão de Débito;Pendente
+V0279;2025-10-31;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Monitor 24;Eletrônicos;5.0;1099.0;Cartão de Débito;Cancelado
+V0190;2025-11-01;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Headset;Acessórios;1.0;279.9;Boleto;Concluído
+V0053;2025-11-02;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mouse sem fio;Acessórios;4.0;129.9;Cartão de Crédito;Pendente
+V0057;2025-11-03;William Carvalho;william.carvalho@email.com;Rio De Janeiro;RJ;Mesa escritório;Móveis;3.0;899.9;Cartão de Crédito;Concluído
+V0250;2025-11-04;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Teclado mecânico;Acessórios;1.0;389.5;Boleto;Concluído
+V0160;2025-11-05;Ana Souza;ana.souza@email.com;São Paulo;SP;Notebook;Eletrônicos;1.0;3499.9;Pix;Concluído
+V0023;2025-11-06;Bruno Lima;bruno.lima@email.com;Campinas;SP;Monitor 24;Eletrônicos;4.0;1099.0;Cartão de Débito;Pendente
+V0263;2025-11-07;Bruno Lima;bruno.lima@email.com;Campinas;SP;Monitor 24;Eletrônicos;4.0;1099.0;Cartão de Débito;Pendente
+V0126;2025-11-08;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Headset;Acessórios;2.0;279.9;Boleto;Concluído
+V0186;2025-11-09;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Teclado mecânico;Acessórios;2.0;389.5;Boleto;Concluído
+V0229;2025-11-10;Daniel Rocha;daniel.rocha@email.com;Porto Alegre;RS;Mouse sem fio;Acessórios;5.0;129.9;Cartão de Crédito;Cancelado
+V0092;2025-11-11;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Cadeira ergonômica;Móveis;3.0;1490.0;Pix;Concluído
+V0281;2025-11-14;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mesa escritório;Móveis;2.0;899.9;Cartão de Crédito;Concluído
+V0234;2025-11-15;Vanessa Araújo;vanessa.araujo@email.com;Belo Horizonte;MG;Teclado mecânico;Acessórios;5.0;389.5;Boleto;Cancelado
+V0140;2025-11-17;Ana Souza;ana.souza@email.com;São Paulo;SP;Cadeira ergonômica;Móveis;1.0;1490.0;Pix;Concluído
+V0093;2025-11-18;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mouse sem fio;Acessórios;4.0;129.9;Cartão de Crédito;Pendente
+V0046;2025-11-19;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Headset;Acessórios;2.0;279.9;Boleto;Concluído
+V0282;2025-11-21;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Teclado mecânico;Acessórios;3.0;389.5;Boleto;Concluído
+V0235;2025-11-22;Felipe Santos;felipe.santos@email.com;Recife;PE;Webcam;Eletrônicos;1.0;319.0;Cartão de Débito;Concluído
+V0188;2025-11-23;Sofia Cardoso;sofia.cardoso@email.com;Salvador;BA;Cadeira ergonômica;Móveis;4.0;1490.0;Pix;Pendente
+V0141;2025-11-24;Henrique Martins;henrique.martins@email.com;Curitiba;PR;Mouse sem fio;Acessórios;2.0;129.9;Cartão de Crédito;Concluído
+V0047;2025-11-26;João Pereira;joao.pereira@email.com;Rio De Janeiro;RJ;Monitor 24;Eletrônicos;3.0;1099.0;Cartão de Débito;Concluído
+V0143;2025-12-01;Bruno Lima;bruno.lima@email.com;Campinas;SP;Monitor 24;Eletrônicos;4.0;1099.0;Cartão de Débito;Pendente
+V0006;2025-12-02;Carla Mendes;carla.mendes@email.com;Goiânia;GO;Headset;Acessórios;2.0;279.9;Boleto;Concluído
+V0010;2025-12-03;Karina Gomes;karina.gomes@email.com;São Paulo;SP;Teclado mecânico;Acessórios;1.0;389.5;Boleto;Concluído
+V0203;2025-12-04;Bruno Lima;bruno.lima@email.com;Campinas;SP;Webcam;Eletrônicos;4.0;319.0;Cartão de Débito;Pendente
+V0113;2025-12-05;Lucas Ferreira;lucas.ferreira@email.com;Campinas;SP;Mesa escritório;Móveis;4.0;899.9;Cartão de Crédito;Pendente
+V0216;2025-12-07;Mariana Oliveira;mariana.oliveira@email.com;Goiânia;GO;Notebook;Eletrônicos;2.0;3499.9;Cartão de Crédito;Concluído
+V0079;2025-12-08;Nicolas Barbosa;nicolas.barbosa@email.com;Porto Alegre;RS;Monitor 24;Eletrônicos;5.0;1099.0;Cartão de Débito;Cancelado
+V0272;2025-12-09;Eduarda Alves;eduarda.alves@email.com;Fortaleza;CE;Notebook;Eletrônicos;3.0;3499.9;Pix;Concluído
+V0182;2025-12-10;Patrícia Nunes;patricia.nunes@email.com;Fortaleza;CE;Headset;Acessórios;3.0;279.9;Boleto;Concluído
+V0045;2025-12-11;Rafael Teixeira;rafael.teixeira@email.com;Recife;PE;Mouse sem fio;Acessórios;1.0;129.9;Cartão de Crédito;Concluído
