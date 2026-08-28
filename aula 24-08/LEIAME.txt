@@ -1,0 +1,6 @@
+Nome do arquivo CSV		| bg3_personagens_sujo.csv
+Linhas x colunas		| 3000x10
+K-NN — acurácia final no teste	| 60.13%
+K-Means — k escolhido		| 3
+K-Means — silhueta final	| 0.1230
+Data de entrega ao colega	| 28/08/2026
