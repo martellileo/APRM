@@ -8,7 +8,7 @@ from sklearn.metrics import accuracy_score, classification_report
 from sklearn.metrics import silhouette_score
 
 # 1. Carregando o dataset sujo
-df = pd.read_csv('bg3_personagens_distintos_sujo.csv')
+df = pd.read_csv('bg3_personagens_sujo.csv')
 print("Dimensões originais (Linhas x Colunas):", df.shape)
 
 # --- ETAPA DE TRATAMENTO DE DADOS ---
