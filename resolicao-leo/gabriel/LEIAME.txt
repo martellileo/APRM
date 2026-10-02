@@ -1,0 +1,8 @@
+Nome do autor da base:          Gabriel rodrigues
+Prontuario:                     PE3021645
+Nome do arquivo CSV:-	        triatlo_bruto.csv
+Linhas x colunas:	        3000 x 19
+K-NN — acurácia final no teste:	78,11
+K-Means — k escolhido:   	2
+K-Means — silhueta final:       0,1716 
+Data de entrega ao colega:      25/08/2026

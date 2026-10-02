@@ -1,0 +1,20 @@
+Coluna,Tipo,Minimo,Maximo,Observacao
+atleta_id,inteiro,1,3000,identificador unico
+idade,inteiro,18,65,
+sexo,categorico,-,-,M / F
+altura_cm,float,150,200,
+peso_kg,float,45,110,
+anos_experiencia,inteiro,0,30,
+horas_natacao_semana,float,0,12,
+horas_ciclismo_semana,float,0,20,
+horas_corrida_semana,float,0,15,
+vo2_max,float,30,75,ml/kg/min
+fc_repouso,inteiro,40,90,bpm
+fc_maxima,inteiro,160,210,bpm
+tss_semanal_medio,float,100,900,Training Stress Score
+distancia_prova,categorico,-,-,sprint / olimpico / meio_ironman / ironman
+temperatura_prova_c,float,10,38,graus Celsius
+altimetria_corrida_m,inteiro,0,1200,ganho de elevacao em metros
+altimetria_ciclismo_m,inteiro,0,3500,
+tipo_natacao,categorico,-,-,agua_aberta / piscina
+concluiu_prova,inteiro,0,1,0 = nao concluiu (DNF) / 1 = concluiu - alvo de classificacao
