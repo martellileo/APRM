@@ -1,0 +1,77 @@
+Exercicio 1:
+a) O problema é supervisionado. O algoritmo é regressão linear, pois ela é adequada para prever valores contínuos(produtividade_sacas_ha).
+
+b) As entradas são area_ha, chuva_mm, ph_solo, e adubo_kg_ha, uma vez que elas são os dados que serão utilizados. Já id_talhao, receita_bruta_rs_ha são a coluna identificadora e a receita obtida com a colheita do hectare respectivamente, não sendo necessarias para o modelo. E a coluna produtividade_sacas_ha será a saida.
+
+c) o StandardScaler deve ser ajustado dentro de cada validacao.
+
+d)          MAE     RMSE    R2
+Particao 1  2.5558  3.1066  0.8873
+Particao 2  2.5583  3.2267  0.8933
+Particao 3  2.6192  3.1208  0.8892
+Particao 4  2.1905  2.7981  0.9422
+Particao 5  2.3973  2.9746  0.9057
+Media: MAE=2.4642, RMSE=3.0454, R2=0.9035
+Desvio-padrao: MAE=0.1737, RMSE=0.1647, R2=0.0228
+
+e)
+A    56.67
+B    61.16
+C    65.66
+
+-----
+
+Exercicio 2:
+a) O problema é não supervisionado. O algoritmo é o kmeans, porque não existe classe prévia e queremos separar perfis parecidos.
+
+b) As colunas de entrada são passageiros_dia e atraso_medio_min. A coluna id_linha é identificador.
+
+c) As variaveis devem ser padronizadas porque as distancias são muito grandes, passageiros_dia está em milhares e atraso_medio_min em minuto
+
+d) Testando k de 2 a 8, o melhor valor foi k = 4, silhouette (0,7591), o maior Calinski-Harabasz (1160,2382) e o menor Davies-Bouldin (0,3351), então foi a melhor escolha.
+
+e) grupo 0 -> 915,5 passageiros/dia e 13,78 min, grupo 1 -> 786,0 passageiros/dia e 3,14 min, grupo 2 -> 6656,5 passageiros/dia e 15,98 min, grupo 3 -> 6077,0 passageiros/dia e 4,19 min.
+
+f) X, Y e Z foram classificadas no grupo 1, baixa demanda e baixo atraso.
+
+------------------------------------
+
+Trecho de codigo usado:
+
+# 1) regressao linear
+preprocess = ColumnTransformer(
+	[("scale", StandardScaler(), ["chuva_mm", "adubo_kg_ha"])],
+	remainder="passthrough"
+)
+model = Pipeline([
+	("preprocess", preprocess),
+	("regressor", LinearRegression())
+])
+
+cv = KFold(n_splits=5, shuffle=True, random_state=42)
+scores = cross_validate(
+	model,
+	df_soja[["area_ha", "chuva_mm", "ph_solo", "adubo_kg_ha"]],
+	df_soja["produtividade_sacas_ha"],
+	cv=cv,
+	scoring={"mae": "neg_mean_absolute_error", "rmse": "neg_root_mean_squared_error", "r2": "r2"}
+)
+
+# 2) KMeans
+scaler = StandardScaler()
+x_scaled = scaler.fit_transform(df_onibus[["passageiros_dia", "atraso_medio_min"]])
+
+for k in range(2, 9):
+	kmeans = KMeans(n_clusters=k, random_state=42, n_init=10)
+	labels = kmeans.fit_predict(x_scaled)
+
+
+-------
+
+Exercicio 3:
+
+Subajuste -> modelo muito simples que não captura os padrões dos dados, errando no treino e valiadação. Duas ações -> aumentar a complexidade do modelo, e adicionar mais atributos.
+Sobreajuste -> modelo muito forte que alucina demais, baixo erro no treino e alto erro em validação. Duas ações -> diminuir a complexidade e utilizar mais dados no treino.
+Um exemplo de hiperparâmetro de complexidade é o k no KNN.
+
+

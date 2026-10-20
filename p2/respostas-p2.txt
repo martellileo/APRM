@@ -1,0 +1,102 @@
+Exercicio 1:
+a) O problema é supervisionado de regressao, já que a variavel consumo_kwh_dia é numerica.
+
+b) As entradas do modelo sao temperatura_externa_c e umidade_relativa_pct. A saida é consumo_kwh_dia. id_estufa é identificadora. A coluna custo_energia_rs_dia é excluida porque pode gerar data leak.
+
+c) o StandardScaler deve ser ajustado dentro de cada validacao.
+
+d) 
+ grau  rmse_treino_medio  rmse_validacao_medio
+    1          54.197443             55.907619
+    2          12.658692             13.227384
+    3          12.479926             13.437282
+    4          12.085753             14.661006
+    5          11.651680             14.608720
+    6          11.431556             19.322757
+    7          10.966430             23.149964
+    8          10.294712             46.126952
+    grau 1 apresenta subajuste; graus 6,7,8 são sobreajuste
+
+e) 
+ fold rmse      mae       r2
+    1 12.952001 10.819665 0.948806
+    2 14.052695 11.446898 0.920835
+    3 13.304284 10.442306 0.949378
+    4 11.099760  8.836049 0.955781
+    5 14.728181 12.270780 0.945654
+
+f)
+  A: 256.45 kWh/dia
+  B: 153.89 kWh/dia
+  C: 292.45 kWh/dia
+
+------
+Exercicio 2:
+a) é aprendizado supervisionado, pois a variavel a prever é categorica com tres classes: fina, regular e rio.
+
+b) As entradas do modelo sao altitude_m e umidade_grao_pct. A saida e classe_bebida. id_lote é identificadora. A coluna preco_saca_rs pode dar data leak.
+
+c) O StandardScaler é necessario porque as escalas sao diferentes, altitude_m varia em centenas, enquanto umidade_grao_pct varia em dezenas.
+
+d)
+ k  acc_treino_medio  acc_validacao_medio  f1_treino_medio  f1_validacao_medio
+ 1          1.000000             0.840000         1.000000            0.838501
+ 3          0.928333             0.896667         0.928019            0.895255
+ 5          0.927500             0.900000         0.927355            0.900205
+ 7          0.920000             0.896667         0.920092            0.896716
+ 9          0.915833             0.893333         0.915660            0.893325
+11          0.918333             0.890000         0.918123            0.889481
+13          0.915833             0.893333         0.915320            0.892216
+15          0.916667             0.893333         0.916068            0.891951
+17          0.917500             0.896667         0.916929            0.895340
+19          0.915000             0.903333         0.914378            0.902435
+21          0.912500             0.896667         0.911795            0.895519
+23          0.910000             0.893333         0.909303            0.892197
+25          0.909167             0.896667         0.908442            0.895353
+melhor k=19
+
+e) melhor k=19
+ fold      acc  f1_macro
+    1 0.966667  0.966583
+    2 0.850000  0.847228
+    3 0.933333  0.934066
+    4 0.850000  0.846826
+    5 0.916667  0.917469
+
+f) Predicoes finais:
+  X: rio
+  Y: rio
+  Z: fina
+
+------
+Codigo utilizado:
+
+def montar_preprocessador():
+	return ColumnTransformer([
+		("num", Pipeline([
+			("imp", SimpleImputer(strategy="median")),
+			("esc", StandardScaler())
+		]), COL_NUM),
+		("cat", Pipeline([
+			("imp", SimpleImputer(strategy="most_frequent")),
+			("oh", OneHotEncoder(handle_unknown="ignore"))
+		]), COL_CAT),
+	])
+
+def com_prep(modelo):
+	return Pipeline([("prep", montar_preprocessador()), ("modelo", modelo)])
+
+def regression_pipeline(degree: int):
+	return Pipeline([
+		("scaler", StandardScaler()),
+		("poly", PolynomialFeatures(degree=degree, include_bias=False)),
+		("model", LinearRegression()),
+	])
+
+def knn_pipeline(k: int):
+	return Pipeline([
+		("scaler", StandardScaler()),
+		("model", KNeighborsClassifier(n_neighbors=k)),
+	])
+
+------
